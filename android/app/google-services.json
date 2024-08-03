@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "780259971833",
+    "firebase_url": "https://ivento-79a99-default-rtdb.firebaseio.com",
+    "project_id": "ivento-79a99",
+    "storage_bucket": "ivento-79a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780259971833:android:e6caf8270a4e807c728828",
+        "android_client_info": {
+          "package_name": "com.ivento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAahkLhoNq1927WSTVzu2AVpz_1KL52B_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
