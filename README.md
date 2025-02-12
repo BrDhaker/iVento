@@ -38,12 +38,6 @@ The Ventoline BLE Tracker is a mobile application designed to connect to a Vento
 <img src="images/eventCreation.jpg" alt="Event Creation" width="300"/>
 *Create events in the calendar as alarms/reminders for Ventoline usage.*
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or support, please contact us at benrejebdhaker3@gmail.com.
 
 ---
